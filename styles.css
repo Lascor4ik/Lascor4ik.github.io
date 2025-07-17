@@ -1,10 +1,10 @@
 body { 
-	background-color: ;	/* Голубой фон */
-	color: black;						/* Чёрный текст */
+	background-color:black ;	/* Голубой фон */
+	color: green;						/* Чёрный текст */
 }
 
 h1 { 
-	color: Green ;		/* цвет текста */
+	color: red;		/* цвет заголовка */
 }
 
 p { 
