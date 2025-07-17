@@ -1,0 +1,12 @@
+body { 
+	background-color: ;	/* Голубой фон */
+	color: black;						/* Чёрный текст */
+}
+
+h1 { 
+	color: Green ;		/* цвет текста */
+}
+
+p { 
+	font-size: 18px;	/* Размер шрифта абзаца */
+}
