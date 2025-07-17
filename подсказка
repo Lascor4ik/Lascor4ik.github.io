@@ -1,0 +1,13 @@
+ <!DOCTYPE html>
+<html>
+   <head>
+       <meta charset="UTF-8">
+       <title>Мои животные</title>
+   </head>
+   <body>
+     <h1>Мой первый веб-сайт</h1>
+       <a href="https://lascor4ik.github.io/">Первый сайт</a>
+       <br>
+       <a href="https://lascor4ik.github.io/mypage.html">Второй сайт</a>
+   </body>
+</html>
